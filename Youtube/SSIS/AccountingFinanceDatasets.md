@@ -1,5 +1,5 @@
 # Accounting/Finance Example Datasets
-
+ 
 This document provides the sample SQL statements and files to set up the accounting/finance example discussed in the SSIS Introduction. These datasets will help demonstrate the complete ETL process in SSIS.
 
 ## 1. Source Database Setup
